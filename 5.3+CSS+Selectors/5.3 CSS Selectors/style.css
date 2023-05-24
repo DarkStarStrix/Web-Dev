@@ -1,0 +1,24 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+p[draggable=true] {
+  color: red;
+}
+/* Set the CSS for all elements with a class of "note" to "font-size: 20px */ 
+.note {
+  font-size: 20px;
+}
+/* Set the CSS for the element with an id of "id-selector-demo" to "color: green */
+#id-selector-demo {
+  color: green;
+}
+/* Set the CSS for the li elements that have the "value" attribute set to "4" to have "color: blue"*/
+li[value="4"] {
+  color: blue;
+}
+/* Set all elements to have "text-align: center"*/
+* {
+  text-align: center;
+}

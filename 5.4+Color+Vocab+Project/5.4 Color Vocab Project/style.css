@@ -1,0 +1,103 @@
+/*-- 
+TODOs
+IMPORTANT: You should not need to make ANY CHANGES to index.html
+All code should be written in your CSS file.
+1. Create a CSS file and incorporate it as an external stylesheet.
+2. Use CSS to style each of the color titles to meaning. 
+3. Use CSS to change all the color titles to have "font-weight: normal;"
+4. Use CSS (not HTML) to make all the images 200px heigh and 200px wide. 
+*/
+
+/*--Use CSS to style each of the color titles to meaning*/
+#red {
+    color: red;
+}
+#orange {
+    color: orange;
+}
+#yellow {
+    color: yellow;
+}
+#green {
+    color: green;
+}
+#blue {
+    color: blue;
+}
+
+/*--Use CSS to change all the color titles to have "font-weight: normal;"*/
+h1 {
+    font-weight: normal;
+}
+
+/*--Use CSS (not HTML) to make all the images 200px heigh and 200px wide.*/
+img {
+    height: 200px;
+    width: 200px;
+}
+
+/*--Use CSS to make the background of the page "lightgray"*/
+body {
+    background-color: lightgray;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a background color of "darkgray"*/
+h1 {
+    background-color: darkgray;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a border with a width of 5px, a style of "solid", and a color of "black"*/
+h1 {
+    border: 5px solid black;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a border-radius of 10px*/
+h1 {
+    border-radius: 10px;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a padding of 10px*/
+h1 {
+    padding: 10px;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a margin of 0px*/
+h1 {
+    margin: 0px;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a text-align of center*/
+h1 {
+    text-align: center;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a font-size of 50px*/
+h1 {
+    font-size: 50px;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a font-family of sans-serif*/
+h1 {
+    font-family: sans-serif;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a color of white*/
+h1 {
+    color: white;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a text-shadow that is 2px to the right, 2px down, and has a color of black*/
+h1 {
+    text-shadow: 2px 2px black;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a text-shadow that is 2px to the right, 2px down, and has a color of black*/
+h1 {
+    text-shadow: 2px 2px black;
+}
+
+/*--Use CSS to make the h1 element that says "Colors" have a text-shadow that is 2px to the right, 2px down, and has a color of black*/
+h1 {
+    text-shadow: 2px 2px black;
+}
+
